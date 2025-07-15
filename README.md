@@ -7,7 +7,8 @@ An interactive 3D carousel showcasing the 6 largest countries by area, featuring
 - Responsive design.
 
 ## 🚀 Demo
-[Live Demo](https://your-username.github.io/repo-name/) (Enable after GitHub Pages setup)
+<img width="858" height="619" alt="image" src="https://github.com/user-attachments/assets/23844fdd-a38f-4a92-abe8-4ae49e304ab5" />
+
 
 ## 🛠️ Technologies
 - HTML5, CSS3, JavaScript
@@ -15,9 +16,6 @@ An interactive 3D carousel showcasing the 6 largest countries by area, featuring
 - CSS 3D transforms
 
 ## 📸 Screenshot
-![Screenshot](images/screenshot.png)
+![Screenshot]<img width="849" height="590" alt="image" src="https://github.com/user-attachments/assets/7e9b0592-af0a-4101-9c18-679a2e428bb2" />
 
-## 🔧 Setup
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/your-username/repo-name.git
+
