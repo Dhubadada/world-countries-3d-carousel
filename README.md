@@ -16,6 +16,6 @@ An interactive 3D carousel showcasing the 6 largest countries by area, featuring
 - CSS 3D transforms
 
 ## 📸 Screenshot
-![Screenshot]<img width="849" height="590" alt="image" src="https://github.com/user-attachments/assets/7e9b0592-af0a-4101-9c18-679a2e428bb2" />
+<img width="849" height="590" alt="image" src="https://github.com/user-attachments/assets/7e9b0592-af0a-4101-9c18-679a2e428bb2" />
 
 
